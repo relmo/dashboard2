@@ -1,3 +1,7 @@
+[![Coverage Status](https://coveralls.io/repos/github/relmo/dashboard2/badge.svg?branch=master)](https://coveralls.io/github/relmo/dashboard2?branch=master)
+
+[![Build Status](https://travis-ci.org/relmo/dashboard2.svg?branch=master)](https://travis-ci.org/relmo/dashboard2)
+
 # Dashboard2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
